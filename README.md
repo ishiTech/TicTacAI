@@ -27,6 +27,3 @@ This project showcases the application of **search algorithms** and **game theor
 - **Random module** (for variability in AI)
 - **Search algorithms**: Minimax, MCTS
 - **Game theory concepts**
-
-
-## 📂 Project Structure
