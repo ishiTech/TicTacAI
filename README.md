@@ -46,16 +46,17 @@ This project showcases the application of **search algorithms** and **game theor
    
 2. Run in terminal:
    
+   ```bash
     python main.py
    
-or open TicTacAI.ipynb in Jupyter Notebook.
+    or open TicTacAI.ipynb in Jupyter Notebook.
 
 3. Select game mode:
-   
-  1 → Player vs Player
-  
-  2 → Player vs AI (choose AI strategy)
-  
-  3 → AI vs AI (choose AI for both sides)
+   ```bash
+    1 → Player vs Player
+    
+    2 → Player vs AI (choose AI strategy)
+    
+    3 → AI vs AI (choose AI for both sides)
 
 ---
